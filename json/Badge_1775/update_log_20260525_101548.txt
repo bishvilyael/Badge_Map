@@ -1,0 +1,13 @@
+﻿Started: 2026-05-25 10:15:48
+Map type: Badge
+Source  : work_requests\Req_10_Badge_1775\02_kml\Badge_1775.kml
+Output  : G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_1775
+Count   : 1
+OK: Badge_1775.kml -> data.geojson
+Duplicate features removed from data.geojson: 3
+Title: מפה אישית עבור יעל # 1775 עם נלווים
+New private key created for Badge_1775: 5YKY8K6
+Private Badge key updated. key=5YKY8K6
+Finished: 2026-05-25 10:15:49
+Success : 1
+Failed  : 0

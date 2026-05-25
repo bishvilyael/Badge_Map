@@ -1,0 +1,12 @@
+﻿Started: 2026-05-22 21:23:15
+Map type: Badge
+Source  : work_requests\Req_3_Badge_1\02_kml\Badge_1.kml
+Output  : G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_1
+Count   : 1
+OK: Badge_1.kml -> data.geojson
+Title: מפה אישית עבור יעל # 1 עם נלווים
+Existing private key kept for Badge_1: A7F9K2Q
+Private Badge key updated. key=A7F9K2Q
+Finished: 2026-05-22 21:23:16
+Success : 1
+Failed  : 0

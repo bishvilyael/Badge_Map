@@ -1,0 +1,13 @@
+﻿Started: 2026-05-22 21:42:46
+Map type: Badge
+Source  : work_requests\Req_11_Badge_1160\02_kml\Badge_1160.kml
+Output  : G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_1160
+Count   : 1
+OVERWRITE: existing target will be replaced: G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_1160\data.geojson
+OK: Badge_1160.kml -> data.geojson
+Title: מפה אישית עבור יעל # 1160 עם נלווים
+Existing private key kept for Badge_1160: Z2N7Q5A
+Private Badge key updated. key=Z2N7Q5A
+Finished: 2026-05-22 21:42:46
+Success : 1
+Failed  : 0
