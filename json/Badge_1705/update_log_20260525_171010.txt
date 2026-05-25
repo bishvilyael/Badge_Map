@@ -1,0 +1,12 @@
+﻿Started: 2026-05-25 17:10:10
+Map type: Badge
+Source  : work_requests\Req_11_Badge_1705\02_kml\Badge_1705.kml
+Output  : G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_1705
+Count   : 1
+OK: Badge_1705.kml -> data.geojson
+Title: מפה אישית עבור יעל # 1705 עם נלווים
+New private key created for Badge_1705: ZGNG6RM
+Private Badge key updated. key=ZGNG6RM
+Finished: 2026-05-25 17:10:11
+Success : 1
+Failed  : 0
