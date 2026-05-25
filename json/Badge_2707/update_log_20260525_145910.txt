@@ -1,0 +1,12 @@
+﻿Started: 2026-05-25 14:59:10
+Map type: Badge
+Source  : work_requests\Req_9_Badge_2707\02_kml\Badge_2707.kml
+Output  : G:\My Drive\Sfirat_Yeelim\Exports\RIPOS\Map_Badge\json\Badge_2707
+Count   : 1
+OK: Badge_2707.kml -> data.geojson
+Title: מפה אישית עבור יעל # 2707 עם נלווים
+New private key created for Badge_2707: WA6G79R
+Private Badge key updated. key=WA6G79R
+Finished: 2026-05-25 14:59:11
+Success : 1
+Failed  : 0
